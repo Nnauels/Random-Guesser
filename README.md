@@ -1,2 +1,3 @@
 # Random-Guesser
-a beginner project
+a beginner project about the random guessing game.
+coded in java! and just a fun lil game
